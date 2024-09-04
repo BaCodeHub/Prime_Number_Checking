@@ -2,7 +2,7 @@
 
 This application allows you to check whether a number within the first 239 trillion (239,811,952,854,769) numbers is prime with 100% accuracy. For numbers larger than 239 trillion, the accuracy may decrease. Even in the beta version, our algorithm is significantly more effective than existing prime number checking applications. We hope this application will be useful to you.
 
-![Application Screenshot](./Screenshots/image.jpeg)
+![Application Screenshot](./Screenshots/image1.jpeg)
 
 ## Features
 
